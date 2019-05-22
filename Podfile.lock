@@ -1,0 +1,24 @@
+PODS:
+  - Eureka (5.0.0)
+  - ReachabilitySwift (4.3.1)
+  - XMLParsing (0.0.2)
+
+DEPENDENCIES:
+  - Eureka (= 5.0.0)
+  - ReachabilitySwift (= 4.3.1)
+  - XMLParsing (= 0.0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Eureka
+    - ReachabilitySwift
+    - XMLParsing
+
+SPEC CHECKSUMS:
+  Eureka: 0f64f477ec8ef6201c6fec143d60ff5c201cf654
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  XMLParsing: b6cc40a1de8e321a72b7f0d89080473f9d53cff8
+
+PODFILE CHECKSUM: f9cb21e795c5bca6d931d68714ffa0b877e7c51b
+
+COCOAPODS: 1.6.1
