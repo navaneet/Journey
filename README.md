@@ -1,2 +1,2 @@
 # Journey
-iOS App that displays live Irish Rail timings and status indicators for the same
+iOS App that displays Irish Rail timings and shows live status indicators for the same
